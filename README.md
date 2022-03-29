@@ -1,4 +1,12 @@
+
+
 # Blog App created and deployed on Kubernetes 
+
+# Team:
+1. ACHYUTA BHIMSEN MURALIDHAR G MUDHOL - PES2UG19CS014
+2. AKASH V - PES2UG19CS023
+3. ANUP OMKAR - PES2UG19CS051
+4. ANURAG R SIMHA - PES2UG19CS052
 
 ## File Structure
 ```
